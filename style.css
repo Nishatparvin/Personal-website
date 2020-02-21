@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.top-part{
+    background-image: url("images/header-bg.png");
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    color: #EC4C7A;
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+
+}
+.half-width2{
+    width: 40%;
+    float: left;
+    padding-top: 7%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    background-color:#EC4C7A ;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+}
+.footer-section{
+    background-image: url("images/footer-bg.png");
+    height: 300px;
+}
+.footer-head{
+    text-align: center;
+}
+.footer-img{
+        float: left;
+        width: 30%;
+        padding: 5px;
+      
+}
+.row{
+    padding-left: 10%;
+    
+}
+h4{
+    text-align: center;
+}
+
+.footer-para{
+    text-align: center;
+    color: dimgray;
+}
+
+#hire-para{
+    color: white;
+    font-size: 14px;
+}
+.hire{
+    margin-left: 380px;
+    font-size: 20px;
+    width:600px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: #EC4C7A;
+    margin-top: 60px;
+    text-align: center;
+}
