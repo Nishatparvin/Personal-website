@@ -55,6 +55,7 @@ a{
 .footer-section{
     background-image: url("images/footer-bg.png");
     height: 300px;
+    padding-top: 100px;
 }
 .footer-head{
     text-align: center;
@@ -72,6 +73,7 @@ a{
 .client{
     text-align: center;
     height: 300px;
+    padding-top: 100px;
 }
 
 #hire-para{
